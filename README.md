@@ -90,7 +90,7 @@ A highly available AWS architecture separating the **presentation, application, 
 
 <div align="center">
 
-<a href="./projects/Aws_Three_Tyre">
+<a href="https://github.com/Kailash-18/Aws_Three_Tyre">
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
 
