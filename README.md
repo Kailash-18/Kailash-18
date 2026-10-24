@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a B.Tech Electronics & Communication Engineering student at **IIIT Bhagalpur** and a **Cloud & DevOps enthusiast** focused on building scalable and reliable cloud-native systems. ☁️ I work across **AWS, Azure, and GCP**, with hands-on experience in **Docker, Kubernetes, EKS, Terraform, Ansible, Jenkins, GitLab CI/CD, Argo CD, and Helm**. ⚙️ My work covers **cloud infrastructure, networking, security, CI/CD automation, GitOps, container orchestration, and Infrastructure as Code**, along with monitoring and observability using **Prometheus, Grafana, Splunk, and CloudWatch**. 🚀 I enjoy turning infrastructure and deployment processes into automated, repeatable, secure, and production-ready systems.
+🎓 I'm a B.Tech Electronics & Communication Engineering student<!-- at **IIIT Bhagalpur**--> and a **Cloud & DevOps enthusiast** focused on building scalable and reliable cloud-native systems. ☁️ I work across **AWS, Azure, and GCP**, with hands-on experience in **Docker, Kubernetes, EKS, Terraform, Ansible, Jenkins, GitLab CI/CD, Argo CD, and Helm**. ⚙️ My work covers **cloud infrastructure, networking, security, CI/CD automation, GitOps, container orchestration, and Infrastructure as Code**, along with monitoring and observability using **Prometheus, Grafana, Splunk, and CloudWatch**. 🚀 I enjoy turning infrastructure and deployment processes into automated, repeatable, secure, and production-ready systems.
 
 ---
 # ⚡ Tech Stack
