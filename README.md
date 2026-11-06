@@ -80,7 +80,7 @@
 </div>
 ---
 
-# 🚀 Featured Projects
+<!--  # 🚀 Featured Projects
 
 ### ☁️ AWS 3-Tier Web Application Architecture
 
@@ -135,6 +135,7 @@ An automated Kubernetes delivery workflow using **GitLab CI/CD, Docker, ECR, Hel
 </div>
 
 ---
+-->
 
 # 🛠️ Technical Proficiencies
 
