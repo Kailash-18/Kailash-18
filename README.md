@@ -13,11 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a B.Tech Electronics & Communication Engineering student and a **Cloud & DevOps enthusiast** focused on building scalable, secure and reliable cloud-native systems.
+🎓 I'm a B.Tech Electronics & Communication Engineering student and a **Cloud & DevOps enthusiast** focused on building scalable, secure and reliable cloud-native systems.
 
-I work across **AWS, Azure and GCP**, with hands-on experience in infrastructure automation, container orchestration, CI/CD, GitOps, networking, security and observability.
+☁️ I work across **AWS, Azure and GCP**, with hands-on experience in infrastructure automation, Kubernetes, CI/CD, GitOps, networking and observability.
 
-I enjoy turning complex infrastructure and deployment processes into automated, repeatable and reliable systems.
+🛡️ My interests also extend to **Infrastructure Security, Ethical Hacking and Penetration Testing**, with practical experience in firewall administration, vulnerability assessment, network analysis and security testing in lab environments.
+
+⚙️ I enjoy transforming complex infrastructure and deployment processes into automated, repeatable and secure systems, with a focus on **scalability, reliability and operational efficiency**.
 
 ---
 
